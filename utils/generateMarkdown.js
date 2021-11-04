@@ -50,7 +50,7 @@ function renderLicenseSection(license) {
     return " "
   } 
   else {
-    return `Tech License \n This coding assignment utilizes a ${license}`
+    return `Tech License</br>This coding assignment utilizes a ${license}`
   }
 }
 
@@ -63,7 +63,7 @@ function generateMarkdown(data) {
  --------------------------------------------
  ${data.title}
 
- Description
+ Description</br>
  ${data.description}
 
  --------------------------------------------
@@ -79,19 +79,19 @@ function generateMarkdown(data) {
 
  --------------------------------------------
 
- Installation
+ Installation</br>
  ${data.installation}
 
- Usage
+ Usage</br>
  ${data.usage}
 
- Contributers
+ Contributers</br>
  ${data.contributers}
 
 ${renderLicenseSection(data.license)}
  ${renderLicenseBadge(data.license)}
 
- Test
+ Test</br>
  ${data.tests}
 
  Questions

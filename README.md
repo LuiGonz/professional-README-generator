@@ -1,10 +1,9 @@
   
  --------------------------------------------
+ ReadMe Generator
 
- ReadME
-
- Description
- This creates a readme file
+ Description</br>
+ This app creates a readme file
 
  --------------------------------------------
 
@@ -19,28 +18,26 @@
 
  --------------------------------------------
 
- Installation
+ Installation</br>
  npm i
 
- Usage
+ Usage</br>
  watch the video
 
- Contributers
+ Contributers</br>
  Luis
 
-Tech License 
- This coding assignment utilizes a GNU General Public License v3.0,MIT License,Mozilla Public License v2.0,Apache License 2.0,Java Research License,Aladdin Free Public License v9.0
+Tech License</br>This coding assignment utilizes a MIT License
  undefined
 
- Test
+ Test</br>
  N/A
 
  Questions
- github: LuisGonz
- email: luis@gmail.com
+ github: LuiGonz
+ email: lg@gmail.com
 
- Example
- ![screenshot](utils/images/TestReadMe.PNG)
+
 
  --------------------------------------------
   

@@ -88,7 +88,7 @@ function generateMarkdown(data) {
  Contributers</br>
  ${data.contributers}
 
-${renderLicenseSection(data.license)}
+${renderLicenseSection(data.license)}</br>
  ${renderLicenseBadge(data.license)}
 
  Test</br>
@@ -98,7 +98,8 @@ ${renderLicenseSection(data.license)}
  github: ${data.username}
  email: ${data.email}
 
-
+ Example
+ ![screenshot](./img/Screenshot-readme.png)
 
  --------------------------------------------
   `;

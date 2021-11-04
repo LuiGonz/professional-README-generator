@@ -33,11 +33,11 @@ Tech License</br>This coding assignment utilizes a GNU General Public License v3
  Test</br>
  N/A
 
- Questions
- github: LuiGonz
+ Questions</br>
+ github: LuiGonz</br>
  email: lg@gmail.com
 
- Example
+ Example</br>
  ![screenshot](./img/Screenshot-readme.png)
 
  --------------------------------------------

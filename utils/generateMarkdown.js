@@ -89,12 +89,13 @@ function generateMarkdown(data) {
  ${data.contributers}
 
 ${renderLicenseSection(data.license)}</br>
- ${renderLicenseBadge(data.license)}
+${renderLicenseBadge}
 
  Test</br>
  ${data.tests}
 
  Questions
+ If you have any further questions please feel free to contact me by email or referening my GitHub!
  github: ${data.username}
  email: ${data.email}
 
